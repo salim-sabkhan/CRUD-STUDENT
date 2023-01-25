@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Tamim Desai",
+      "email": "tamim@.com",
+      "phone": "6352148987"
+    },
+    {
+      "id": 2,
+      "name": "Salim Abdulrahn",
+      "email": "sab@gmail.com",
+      "phone": "09172052664"
+    }
+  ]
+}
